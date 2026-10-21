@@ -2,9 +2,11 @@
 
 本产品灵感来自于本人的职级晋升考试，有题库完全没看~
 QuizBar：把题库做成一张**置顶悬浮卡片**逐题循环播放。支持智能题型排版、选中取题（划选即查答案）、防拍模式、多工作表合并、背景明暗自适应。
-![导入](snapshot/导入.png)
-![安静](snapshot/安静.png)
-![取词](snapshot/取词.png)
+<img width="1440" height="900" alt="导入" src="https://github.com/user-attachments/assets/a020a078-6824-48ee-ab9a-47f9e422e6b1" />
+
+<img width="1440" height="900" alt="安静" src="https://github.com/user-attachments/assets/591bc6e2-8496-445e-bec9-e56a9fcf4e3b" />
+
+<img width="1440" height="900" alt="取词" src="https://github.com/user-attachments/assets/4b9f78d0-2b6a-4783-b6ed-94cd55f3327c" />
 
 ## 目录结构
 
