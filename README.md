@@ -2,9 +2,9 @@
 
 本产品灵感来自于本人的职级晋升考试，有题库完全没看~
 QuizBar：把题库做成一张**置顶悬浮卡片**逐题循环播放。支持智能题型排版、选中取题（划选即查答案）、防拍模式、多工作表合并、背景明暗自适应。
-![导入](https://github.com/sunXiChun/QuizBar/blob/main/snapshot/%E5%AF%BC%E5%85%A5.png)
-![安静](https://github.com/sunXiChun/QuizBar/blob/main/snapshot/%E5%AE%89%E9%9D%99.png)
-![取词](https://github.com/sunXiChun/QuizBar/blob/main/snapshot/%E5%8F%96%E8%AF%8D.png)
+![导入](snapshot/导入.png)
+![安静](snapshot/安静.png)
+![取词](snapshot/取词.png)
 
 ## 目录结构
 
