@@ -1,6 +1,8 @@
 # 背题宝（QuizBar）
 
 本产品灵感来自于本人的职级晋升考试，有题库完全没看~
+
+
 QuizBar：把题库做成一张**置顶悬浮卡片**逐题循环播放。支持智能题型排版、选中取题（划选即查答案）、防拍模式、多工作表合并、背景明暗自适应。
 <img width="1440" height="900" alt="导入" src="https://github.com/user-attachments/assets/a020a078-6824-48ee-ab9a-47f9e422e6b1" />
 
