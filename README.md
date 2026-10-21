@@ -4,11 +4,13 @@
 
 
 QuizBar：把题库做成一张**置顶悬浮卡片**逐题循环播放。支持智能题型排版、选中取题（划选即查答案）、防拍模式、多工作表合并、背景明暗自适应。
-<img width="1440" height="900" alt="导入" src="https://github.com/user-attachments/assets/a020a078-6824-48ee-ab9a-47f9e422e6b1" />
 
-<img width="1440" height="900" alt="安静" src="https://github.com/user-attachments/assets/591bc6e2-8496-445e-bec9-e56a9fcf4e3b" />
+<img width="1440" height="900" alt="导入" src="https://github.com/user-attachments/assets/271ed29d-9816-4f0d-8b4d-70c7f3cd472f" />
 
-<img width="1440" height="900" alt="取词" src="https://github.com/user-attachments/assets/4b9f78d0-2b6a-4783-b6ed-94cd55f3327c" />
+<img width="1440" height="900" alt="安静" src="https://github.com/user-attachments/assets/86b595cb-2a80-4d62-af97-a75f6ce0f83b" />
+
+<img width="1440" height="900" alt="取词" src="https://github.com/user-attachments/assets/da049ba1-d9cb-4cfb-a089-ccb4d7f94d82" />
+
 
 ## 目录结构
 
